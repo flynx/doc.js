@@ -60,7 +60,7 @@ This ignores `object.LEADING_TABS` and `leading_tabs` is 0 by default.
 
 [BSD 3-Clause License](./LICENSE)
 
-Copyright (c) 2016-2021, Alex A. Naanou,  
+Copyright (c) 2016-2023, Alex A. Naanou,  
 All rights reserved.
 
 
